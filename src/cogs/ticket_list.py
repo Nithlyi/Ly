@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import sqlite3
 
-ALLOWED_USER_IDS = [1384859365349003264, 1069364135084687391]
+ALLOWED_USER_IDS = [1384859365349003264, 1339826910108192801]
 
 class TicketList(commands.Cog):
     def __init__(self, bot):
